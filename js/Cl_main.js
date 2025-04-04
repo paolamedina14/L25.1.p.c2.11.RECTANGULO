@@ -19,7 +19,6 @@
  */
 
 import Cl_rectangulo from "./Cl_rectangulo.js";
-
 export default class Cl_main {
     constructor() {
         this.rect1 = new Cl_rectangulo(4,2);
